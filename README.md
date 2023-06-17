@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @r04nx
-- 👀 I’m interested in Networking, Ethical Hacking, Web and App Development, Linux Server Administration and Virtual Machines
-- 🌱 I’m currently pursuing Diploma in Computer Engineering
-- 💞️ I’m looking to collaborate on nothing, but if anybody wants me to work for them, i would love it
+- 👋 Hi, I’m Rohan Pawar
+- 👀 I’m interested in Python, PHP, Cyber Security,Full Stack Web Development, Linux Server Administration, Computer Networking and VMs
+- 🌱 I’ve completed my Diploma in Computer Engineering
+- 💞️ I’m looking to collaborate to build or work on tech startups or Business.
 - 📫 How to reach me- twitter:@r04nx_ instagram:r04nx
 
 <!---
