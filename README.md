@@ -89,3 +89,12 @@
     </td>
   </tr>
 </table>
+<h3 align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r04nx&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="r04nx" />  
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=r04nx&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="r04nx" />
+</h3>
+<h3 align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r04nx&theme=tokyonight" alt="r04nx" />
+</h3>
+
