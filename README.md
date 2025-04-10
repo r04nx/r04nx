@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./avatar.gif" width="800" alt="Hacker Avatar">
+  <img src="./avatar.gif" width="600" alt="Hacker Avatar">
   <h1>👾 r04nx | <span style="color:#00ff00">CYBER SECURITY RESEARCHER</span> 👾</h1>
 </div>
 
