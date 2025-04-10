@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./avatar.gif" width="" alt="Hacker Avatar">
+  <img src="./avatar.gif" width="600" alt="Hacker Avatar">
   <h1>🤖 r04nx | <span style="color:#00ff00">CYBER SECURITY RESEARCHER</span> <span style="color:#ff0000">HACKER</span> 💻</h1>
 </div>
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/r04nx"><img src="https://img.shields.io/badge/GitHub-r04nx-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"></a>
   <a href="mailto:r04nx@outlook.com"><img src="https://img.shields.io/badge/Email-r04nx@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"></a>
 </p>
-<div align="center">
+<div align="left">
 
 ```
             /$$$$$$  /$$   /$$            
@@ -23,6 +23,7 @@
 | $$      | $$ \ $$$      | $$| $$  | $$  >$$  $$ 
 | $$      |  $$$$$$/      | $$| $$  | $$ /$$/\  $$
 |__/       \______/       |__/|__/  |__/|__/  \__/       
+
 ```
 
 </div>
