@@ -1,83 +1,60 @@
 <div align="center">
-  <img src="./avatar.gif" width="600" alt="Hacker Avatar">
-  <h1>👾 r04nx | <span style="color:#00ff00">CYBER SECURITY RESEARCHER</span> 👾</h1>
+  <img src="./avatar.gif" width="" alt="Hacker Avatar">
+  <h1>🤖 r04nx | <span style="color:#00ff00">CYBER SECURITY RESEARCHER</span> <span style="color:#ff0000">HACKER</span> 💻</h1>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=600&height=70&lines=Cyber+Security+Researcher;AI+Enthusiast;Full+Stack+Developer;Server+%26+Security+Administrator;Red+Team+Operator" alt="Typing SVG" />
 </div>
-
-<div align="center">
-
-```
-         /$$$$$$  /$$   /$$  
-        /$$$_  $$| $$  | $$  
-  /$$$$$$ | $$$$\ $$| $$  | $$ /$$$$$$$  /$$   /$$
- /$$__  $$| $$ $$ $$| $$$$$$$$| $$__  $$|  $$ /$$/
-| $$  \__/| $$\ $$$$|_____  $$| $$  \ $$ \  $$$$/ 
-| $$      | $$ \ $$$      | $$| $$  | $$  >$$  $$ 
-| $$      |  $$$$$$/      | $$| $$  | $$ /$$/\  $$
-|__/       \______/       |__/|__/  |__/|__/  \__/
-                  
-                  
-                    
-
- ▄▄▄ ▄▀▀▚▖▄  ▗▖▄▄▄▄  ▄   ▄ 
-█    █  ▐▌█  ▐▌█   █  ▀▄▀  
-█    █  ▐▌▀▀▀▜▌█   █ ▄▀ ▀▄ 
-     ▀▄▄▞▘   ▐▌  
-   
-   
-   
-  
-```
-
-</div>
-
 <p align="center">
   <a href="https://r04nx.tech"><img src="https://img.shields.io/badge/Website-r04nx.tech-brightgreen?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black"></a>
   <a href="https://www.linkedin.com/in/r04nx"><img src="https://img.shields.io/badge/LinkedIn-r04nx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"></a>
   <a href="https://github.com/r04nx"><img src="https://img.shields.io/badge/GitHub-r04nx-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black"></a>
   <a href="mailto:r04nx@outlook.com"><img src="https://img.shields.io/badge/Email-r04nx@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black"></a>
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=r04nx&label=Profile%20views&color=0e75b6&style=flat" alt="r04nx" />
-</div>
-
 <div align="center">
 
-```bash
-#!/bin/bash
-
-# Initialize hacker profile
-echo "Initializing R04NX profile..."
-
-# Personal data struct
-declare -A profile=(
-  [name]="Rohan Prakash Pawar"
-  [alias]="r04nx"
-  [occupation]="Cyber Security Researcher & AI Enthusiast"
-  [location]="Mumbai, India"
-  [education]="B.Tech in Electronics & Telecommunication @ Sardar Patel Institute of Technology"
-  [current_role]="Server & Security Administrator @ Alesa.ai"
-)
-
-# Execute profile
-function display_profile() {
-  for key in "${!profile[@]}"; do
-    echo "$key: ${profile[$key]}"
-  done
-}
-
-display_profile
-echo "Profile loaded successfully. Access granted."
+```
+            /$$$$$$  /$$   /$$            
+           /$$$_  $$| $$  | $$            
+  /$$$$$$ | $$$$\ $$| $$  | $$ /$$$$$$$  /$$   /$$
+ /$$__  $$| $$ $$ $$| $$$$$$$$| $$__  $$|  $$ /$$/
+| $$  \__/| $$\ $$$$|_____  $$| $$  \ $$ \  $$$$/ 
+| $$      | $$ \ $$$      | $$| $$  | $$  >$$  $$ 
+| $$      |  $$$$$$/      | $$| $$  | $$ /$$/\  $$
+|__/       \______/       |__/|__/  |__/|__/  \__/       
 ```
 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRvYXQ5cGV3cXFjZWRxbWpzaDFwbHl2YWJhNWFkYmVuZzRxbXRmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="800" height="450" />
+  <img src="https://komarev.com/ghpvc/?username=r04nx&label=Profile%20views&color=0e75b6&style=flat" alt="r04nx" />
+</div>
+
+<div>
+  <h3>$ whoami</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Name-Rohan_Prakash_Pawar-brightgreen?style=flat-square&logo=aboutdotme&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alias-r04nx-red?style=flat-square&logo=hackthebox&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Occupation-Cyber_Security_Researcher-blue?style=flat-square&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI_Enthusiast-purple?style=flat-square&logo=tensorflow&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Location-Mumbai,_India-orange?style=flat-square&logo=google-maps&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Education-B.Tech_in_Electronics_&_Telecommunication-yellow?style=flat-square&logo=academia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Institute-Sardar_Patel_Institute_of_Technology-yellow?style=flat-square&logo=google-scholar&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Current_Role-Server_&_Security_Administrator-teal?style=flat-square&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/@_Alesa.ai-teal?style=flat-square&logo=vercel&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Access_Granted-success?style=flat-square&logo=checkmarx&logoColor=white" />
+  </p>
 </div>
 
 ## 👾 About Me
@@ -94,48 +71,58 @@ echo "Profile loaded successfully. Access granted."
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-</div>
+<table>
+  <tr>
+    <td><b>🔍 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web Dev</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔒 Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔓 Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6347?style=flat-square&logo=burp-suite&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-E34F26?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6347?style=flat-square&logo=burp-suite&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJwbGlhZHNxZnZpMWRnMmkxZnpvdnNiMGNlZG5uZnRwbnB3dTVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="600" height="338" />
-</div>
 
 ## 🏆 Achievements
 
@@ -143,37 +130,39 @@ echo "Profile loaded successfully. Access granted."
   <img src="https://github-profile-trophy.vercel.app/?username=r04nx&theme=matrix&no-frame=true&row=1&column=7" alt="r04nx trophies" />
 </div>
 
-```python
-class Achievements:
-    def __init__(self):
-        self.hackathons = {
-            "Smart India Hackathon": "National Finalist",
-            "AlgoForge Hackathon": "1st Place Winner",
-            "SPIT Hackathon": "Domain Winner (App Development)",
-            "Evolve SaaS Hackathon": "3rd Place"
-        }
-    
-        self.certifications = [
-            "EC-Council: Ethical Hacking Essentials (EHE)",
-            "Infosys Springboard: Penetration Testing for Highly-Secured Environments",
-            "Kaggle: Intro to Machine Learning",
-            "Kaggle: Python",
-            "TCS iON Career Edge - Young Professional"
-        ]
-  
-    def display(self):
-        return "Building secure systems and breaking insecure ones"
-```
+<div>
+  <h3>🏆 Hackathons</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Smart_India_Hackathon-National_Finalist-blue?style=for-the-badge&logo=hack-club&logoColor=white" />
+    <img src="https://img.shields.io/badge/AlgoForge_Hackathon-1st_Place_Winner-gold?style=for-the-badge&logo=first-order&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/SPIT_Hackathon-Domain_Winner_(App_Development)-green?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Evolve_SaaS_Hackathon-3rd_Place-bronze?style=for-the-badge&logo=saas&logoColor=white" />
+  </p>
+
+<h3>📜 Certifications</h3>
+  <p>
+    <img src="https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials_(EHE)-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Infosys_Springboard-Penetration_Testing-orange?style=for-the-badge&logo=infosys&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Kaggle-Intro_to_Machine_Learning-blue?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TCS_iON-Career_Edge-teal?style=for-the-badge&logo=tata&logoColor=white" />
+  </p>
+
+<p>
+    <img src="https://img.shields.io/badge/Mission-Building_secure_systems_and_breaking_insecure_ones-success?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+  </p>
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r04nx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=r04nx&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r04nx&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r04nx&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r04nx&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true" />
 </div>
 
 ## 🚀 Featured Projects
@@ -250,15 +239,32 @@ class Achievements:
 
 ## 💻 Current Focus
 
-```javascript
-const currentFocus = {
-  research: ["IoT Security", "AI/ML for Cybersecurity", "Low-Power Wireless Communication"],
-  development: ["Linux-based IoT Gateway", "RBAC-enabled Web Dashboard", "Cloud Infrastructure"],
-  learning: ["Advanced Penetration Testing", "LLM Fine-tuning", "Embedded Systems Security"]
-};
+<div>
+  <h3>🔍 Research Areas</h3>
+  <p>
+    <img src="https://img.shields.io/badge/IoT_Security-critical?style=flat-square&logo=internetofthings&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI/ML_for_Cybersecurity-critical?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Low--Power_Wireless_Communication-critical?style=flat-square&logo=bluetooth&logoColor=white" />
+  </p>
 
-console.log("Always learning, always hacking!");
-```
+<h3>💻 Development Projects</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Linux--based_IoT_Gateway-informational?style=flat-square&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/RBAC--enabled_Web_Dashboard-informational?style=flat-square&logo=auth0&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloud_Infrastructure-informational?style=flat-square&logo=amazon-aws&logoColor=white" />
+  </p>
+
+<h3>📚 Learning Path</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Advanced_Penetration_Testing-blueviolet?style=flat-square&logo=hackaday&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLM_Fine--tuning-blueviolet?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Embedded_Systems_Security-blueviolet?style=flat-square&logo=arduino&logoColor=white" />
+  </p>
+
+<p>
+    <img src="https://img.shields.io/badge/Status-Always_learning,_always_hacking!-success?style=flat-square&logo=hackster&logoColor=white" />
+  </p>
+</div>
 
 <div align="center">
   <a href="https://github.com/r04nx">
@@ -277,12 +283,12 @@ console.log("Always learning, always hacking!");
 ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
 
-                                                                                     
-                                                                                     
-                         000000000            444444444                              
-                       00:::::::::00         4::::::::4                              
-                     00:::::::::::::00      4:::::::::4                              
-                    0:::::::000:::::::0    4::::44::::4                              
+                                                                                 
+                                                                                 
+                         000000000            444444444                          
+                       00:::::::::00         4::::::::4                          
+                     00:::::::::::::00      4:::::::::4                          
+                    0:::::::000:::::::0    4::::44::::4                          
 rrrrr   rrrrrrrrr   0::::::0   0::::::0   4::::4 4::::4  nnnn  nnnnnnnn    xxxxxxx      xxxxxxx
 r::::rrr:::::::::r  0:::::0     0:::::0  4::::4  4::::4  n:::nn::::::::nn   x:::::x    x:::::x 
 r:::::::::::::::::r 0:::::0     0:::::0 4::::4   4::::4  n::::::::::::::nn   x:::::x  x:::::x  
@@ -295,25 +301,24 @@ rr::::::rrrrr::::::r0:::::0 000 0:::::04::::444444::::444nn:::::::::::::::n   x:
  r:::::r             00:::::::::::::00         44::::::44  n::::n    n::::n  x:::::x  x:::::x  
  r:::::r               00:::::::::00           4::::::::4  n::::n    n::::n x:::::x    x:::::x 
  rrrrrrr                 000000000             4444444444  nnnnnn    nnnnnnxxxxxxx      xxxxxxx
-                                                                                     
-                                                                                     
-                                                                                     
-         ____  __ __      
+                                                                                 
+                                                                                 
+                                                                                 
+         ____  __ __  
    _____/ __ \/ // / ____  _  __
   / ___/ / / / // /_/ __ \| |/_/
  / /  / /_/ /__  __/ / / />  <  
 /_/   \____/  /_/ /_/ /_/_/|_|  
-                          
+                      
 
-                                                                                     
+                                                                                 
 
-                                                                                     
-                                                                                     
-                                                                                       
-                                                   
-                                                     
+                                                                                 
+                                                                                 
+                                                                                   
+                                               
+                                                 
 ```
-
 
 </div>
 
