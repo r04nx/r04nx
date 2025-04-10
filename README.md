@@ -1,10 +1,21 @@
 <div align="center">
-  <img src="./avatar.gif" width="200" height="200" alt="Hacker Avatar">
+  <img src="./avatar.gif" width="500" alt="Hacker Avatar">
   <h1>👾 R04NX | <span style="color:#00ff00">CYBER SECURITY RESEARCHER</span> 👾</h1>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&random=false&width=600&height=70&lines=Cyber+Security+Researcher;AI+Enthusiast;Full+Stack+Developer;Server+%26+Security+Administrator;Red+Team+Operator" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+██████╗  ██████╗ ██╗  ██╗███╗   ██╗██╗  ██╗
+██╔══██╗██╔═████╗██║  ██║████╗  ██║╚██╗██╔╝
+██████╔╝██║██╔██║███████║██╔██╗ ██║ ╚███╔╝
+██╔══██╗████╔╝██║╚════██║██║╚██╗██║ ██╔██╗
+██║  ██║╚██████╔╝     ██║██║ ╚████║██╔╝ ██╗
+╚═╝  ╚═╝ ╚═════╝      ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
 </div>
 
 <p align="center">
@@ -18,43 +29,26 @@
   <img src="https://komarev.com/ghpvc/?username=r04nx&label=Profile%20views&color=0e75b6&style=flat" alt="r04nx" />
 </div>
 
-```bash
-#!/bin/bash
+<div align="center">
 
-# Initialize hacker profile
-echo "Initializing R04NX profile..."
+<table><tr><td>
 
-# Personal data struct
-declare -A profile=(
-  [name]="Rohan Prakash Pawar"
-  [alias]="r04nx"
-  [occupation]="Cyber Security Researcher & AI Enthusiast"
-  [location]="Mumbai, India"
-  [education]="B.Tech in Electronics & Telecommunication @ Sardar Patel Institute of Technology"
-  [current_role]="Server & Security Administrator @ Alesa.ai"
-)
+</div>
 
-# Execute profile
-function display_profile() {
-  for key in "${!profile[@]}"; do
-    echo "$key: ${profile[$key]}"
-  done
-}
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear.%20Hackers%20don't%20just%20break%20things%2C%20they%20create%20possibilities.&author=r04nx" />
+</div>
 
-display_profile
-echo "Profile loaded successfully. Access granted."
-```
-
-## 🔐 About Me
+## 👾 About Me
 
 > 💻 **Server & Security Administrator** at Alesa.ai, managing infrastructure for NoULEZ project
-> 
+>
 > 🔍 **Cyber Security Researcher** with expertise in penetration testing and red teaming
-> 
+>
 > 🤖 **AI Enthusiast** exploring ML models for financial fraud detection and LLM applications
-> 
+>
 > 🌐 **Full Stack Developer** proficient in multiple programming languages and frameworks
-> 
+>
 > 🚀 **Smart India Hackathon Finalist** and multiple hackathon winner
 
 ## 🛠️ Tech Arsenal
@@ -111,6 +105,10 @@ echo "Profile loaded successfully. Access granted."
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJwbGlhZHNxZnZpMWRnMmkxZnpvdnNiMGNlZG5uZnRwbnB3dTVpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="600" height="338" />
+</div>
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -126,7 +124,7 @@ class Achievements:
             "SPIT Hackathon": "Domain Winner (App Development)",
             "Evolve SaaS Hackathon": "3rd Place"
         }
-        
+      
         self.certifications = [
             "EC-Council: Ethical Hacking Essentials (EHE)",
             "Infosys Springboard: Penetration Testing for Highly-Secured Environments",
@@ -134,7 +132,7 @@ class Achievements:
             "Kaggle: Python",
             "TCS iON Career Edge - Young Professional"
         ]
-    
+  
     def display(self):
         return "Building secure systems and breaking insecure ones"
 ```
@@ -153,21 +151,76 @@ class Achievements:
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/r04nx/LoRAid-SOS-Connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04nx&repo=LoRAid-SOS-Connect&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/r04nx/Netflask">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04nx&repo=Netflask&theme=chartreuse-dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/r04nx/Office-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04nx&repo=Office-Automation&theme=chartreuse-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/r04nx/Color-Rush">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=r04nx&repo=Color-Rush&theme=chartreuse-dark&hide_border=true" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">LoRAid SOS Connect</h3>
+        <p align="center">
+          <a href="https://github.com/r04nx/LoRAid-SOS-Connect" target="_blank">
+            <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=LoRAid+SOS+Connect" width="100%" alt="LoRAid SOS Connect"/>
+          </a>
+          <p align="center">
+            Disaster Communication System with 10km+ low power wireless communication for disaster-impacted regions.
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/NodeMCU-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white"/>
+            <img src="https://img.shields.io/badge/IoT-0A9EDC?style=flat-square&logo=iot&logoColor=white"/>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Netflask</h3>
+        <p align="center">
+          <a href="https://github.com/r04nx/Netflask" target="_blank">
+            <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=Netflask" width="100%" alt="Netflask"/>
+          </a>
+          <p align="center">
+            Python Flask-based web app for network troubleshooting with ping test, DNS/IP lookup, traceroute, and port scanning.
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+          </p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Office Automation</h3>
+        <p align="center">
+          <a href="https://github.com/r04nx/Office-Automation" target="_blank">
+            <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=Office+Automation" width="100%" alt="Office Automation"/>
+          </a>
+          <p align="center">
+            PHP-based ERP suite for educational institutes, streamlining administrative tasks and enhancing student experience.
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Color Rush</h3>
+        <p align="center">
+          <a href="https://github.com/r04nx/Color-Rush" target="_blank">
+            <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=Color+Rush" width="100%" alt="Color Rush"/>
+          </a>
+          <p align="center">
+            Android game that measures user response time when screen color changes, with intuitive UI design.
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 💻 Current Focus
@@ -183,10 +236,25 @@ console.log("Always learning, always hacking!");
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/r04nx/r04nx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <a href="https://github.com/r04nx">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=r04nx&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+
+```
+ ______     ______     ______     __  __     ______     __   __   
+/\  == \   /\  ___\   /\  __ \   /\ \_\ \   /\  ___\   /\ "-.\ \  
+\ \  __<   \ \  __\   \ \  __ \  \ \____ \  \ \  __\   \ \ \-.  \ 
+ \ \_\ \_\  \ \_____\  \ \_\ \_\  \/\_____\  \ \_____\  \ \_\\"\_\
+  \/_/ /_/   \/_____/   \/_/\/_/   \/_____/   \/_____/   \/_/ \/_/
+                                                              
+```
+
 </div>
 
 <div align="center">
   <h3>💬 Let's connect and hack the planet together! 💬</h3>
-  <p>"The quieter you become, the more you are able to hear." - Ram Dass</p>
+  <p><i>"In a world full of 1's and 0's, be the unexpected exploit that changes everything."</i></p>
 </div>
