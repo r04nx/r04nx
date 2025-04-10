@@ -131,7 +131,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=r04nx&theme=matrix&no-frame=true&row=1&column=7" alt="r04nx trophies" />
 </div>
 
-<div>
+<div align="left">
   <h3>🏆 Hackathons</h3>
   <p>
     <img src="https://img.shields.io/badge/Smart_India_Hackathon-National_Finalist-blue?style=for-the-badge&logo=hack-club&logoColor=white" />
@@ -142,7 +142,7 @@
     <img src="https://img.shields.io/badge/Evolve_SaaS_Hackathon-3rd_Place-bronze?style=for-the-badge&logo=saas&logoColor=white" />
   </p>
 
-<h3>📜 Certifications</h3>
+  <h3>📜 Certifications</h3>
   <p>
     <img src="https://img.shields.io/badge/EC--Council-Ethical_Hacking_Essentials_(EHE)-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
     <img src="https://img.shields.io/badge/Infosys_Springboard-Penetration_Testing-orange?style=for-the-badge&logo=infosys&logoColor=white" />
@@ -153,7 +153,7 @@
     <img src="https://img.shields.io/badge/TCS_iON-Career_Edge-teal?style=for-the-badge&logo=tata&logoColor=white" />
   </p>
 
-<p>
+  <p>
     <img src="https://img.shields.io/badge/Mission-Building_secure_systems_and_breaking_insecure_ones-success?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
   </p>
 </div>
@@ -168,69 +168,69 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
   <div>
-    <h3 align="center">LoRAid SOS Connect</h3>
-    <p align="center">
+    <h3>LoRAid SOS Connect</h3>
+    <p>
       <a href="https://github.com/r04nx/LoRAid-SOS-Connect" target="_blank">
         <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=LoRAid+SOS+Connect" width="400" alt="LoRAid SOS Connect"/>
       </a>
     </p>
-    <p align="center">
+    <p>
       Disaster Communication System with 10km+ low power wireless communication for disaster-impacted regions.
     </p>
-    <p align="center">
+    <p>
       <img src="https://img.shields.io/badge/NodeMCU-00979D?style=flat-square&logo=arduino&logoColor=white"/>
       <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=eclipse-mosquitto&logoColor=white"/>
       <img src="https://img.shields.io/badge/IoT-0A9EDC?style=flat-square&logo=iot&logoColor=white"/>
     </p>
   </div>
 
-<div>
-    <h3 align="center">Netflask</h3>
-    <p align="center">
+  <div>
+    <h3>Netflask</h3>
+    <p>
       <a href="https://github.com/r04nx/Netflask" target="_blank">
         <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=Netflask" width="400" alt="Netflask"/>
       </a>
     </p>
-    <p align="center">
+    <p>
       Python Flask-based web app for network troubleshooting with ping test, DNS/IP lookup, traceroute, and port scanning.
     </p>
-    <p align="center">
+    <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     </p>
   </div>
 
-<div>
-    <h3 align="center">Office Automation</h3>
-    <p align="center">
+  <div>
+    <h3>Office Automation</h3>
+    <p>
       <a href="https://github.com/r04nx/Office-Automation" target="_blank">
         <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=Office+Automation" width="400" alt="Office Automation"/>
       </a>
     </p>
-    <p align="center">
+    <p>
       PHP-based ERP suite for educational institutes, streamlining administrative tasks and enhancing student experience.
     </p>
-    <p align="center">
+    <p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     </p>
   </div>
 
-<div>
-    <h3 align="center">Color Rush</h3>
-    <p align="center">
+  <div>
+    <h3>Color Rush</h3>
+    <p>
       <a href="https://github.com/r04nx/Color-Rush" target="_blank">
         <img src="https://via.placeholder.com/500x300/0D1117/00FF00?text=Color+Rush" width="400" alt="Color Rush"/>
       </a>
     </p>
-    <p align="center">
+    <p>
       Android game that measures user response time when screen color changes, with intuitive UI design.
     </p>
-    <p align="center">
+    <p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
@@ -240,7 +240,7 @@
 
 ## 💻 Current Focus
 
-<div>
+<div align="left">
   <h3>🔍 Research Areas</h3>
   <p>
     <img src="https://img.shields.io/badge/IoT_Security-critical?style=flat-square&logo=internetofthings&logoColor=white" />
@@ -248,21 +248,21 @@
     <img src="https://img.shields.io/badge/Low--Power_Wireless_Communication-critical?style=flat-square&logo=bluetooth&logoColor=white" />
   </p>
 
-<h3>💻 Development Projects</h3>
+  <h3>🔧 Development Projects</h3>
   <p>
     <img src="https://img.shields.io/badge/Linux--based_IoT_Gateway-informational?style=flat-square&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/RBAC--enabled_Web_Dashboard-informational?style=flat-square&logo=auth0&logoColor=white" />
     <img src="https://img.shields.io/badge/Cloud_Infrastructure-informational?style=flat-square&logo=amazon-aws&logoColor=white" />
   </p>
 
-<h3>📚 Learning Path</h3>
+  <h3>📚 Learning Path</h3>
   <p>
     <img src="https://img.shields.io/badge/Advanced_Penetration_Testing-blueviolet?style=flat-square&logo=hackaday&logoColor=white" />
     <img src="https://img.shields.io/badge/LLM_Fine--tuning-blueviolet?style=flat-square&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Embedded_Systems_Security-blueviolet?style=flat-square&logo=arduino&logoColor=white" />
   </p>
 
-<p>
+  <p>
     <img src="https://img.shields.io/badge/Status-Always_learning,_always_hacking!-success?style=flat-square&logo=hackster&logoColor=white" />
   </p>
 </div>
